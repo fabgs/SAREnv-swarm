@@ -439,7 +439,7 @@ If you use SAREnv in your research, please cite:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. The original SAREnv framework is © 2025 its authors; the swarm extension (`sarenv.swarm` and its GAMA visualisation) is © 2026 Fabián Godoy Silvestre, released under the same license.
 
 ## 🙏 Acknowledgments
 
